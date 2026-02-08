@@ -29,11 +29,11 @@ print(x[7:])
 
 #    0123456789
 x = "salam, eli"
-(x[-10:-5])
 print(x[:-5])
+print(x[0:-5])
 # salam
-print(x[-3:0])
 print(x[-3:])
+# print(x[-3:]) - sehvdir
 # eli
 
 
