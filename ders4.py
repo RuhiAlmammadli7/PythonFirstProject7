@@ -108,3 +108,9 @@ y = x
 print(y)
 print(x)
 # 80
+
+a = 10
+b = a
+b += 1
+print(a,b)
+# 10 11
