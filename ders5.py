@@ -84,5 +84,6 @@ print(f"Salam, hormetli {ad} {soyad}!")
 # Salam, hormetli Ruhi Almamamdli!
 
 cumle = "Python eyni zaman \"Piton\" kimi adlanir."
+cumle = 'Python eyni zaman "Piton" kimi adlanir.'
 print(cumle)
 # Python eyni zaman "Piton" kimi adlanir.
