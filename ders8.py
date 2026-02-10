@@ -45,11 +45,15 @@ terevezler.remove("Nar")
 print(terevezler)
 # ['Xiyar', 'Badimcan', 'Balqabaq']
 
+
 #                0         1       2        3
 terevezler = ["Xiyar","Badimcan","Nar","Balqabaq"]
 terevezler.pop()
+terevezler.pop(3)
 terevezler.pop(-1)
 print(terevezler)
+# ['Xiyar', 'Badimcan', 'Nar']
+
 
 x = [7,89,100,-77,0.75]
 x.sort()
@@ -99,7 +103,6 @@ print(a)
 # [7, 7, 7]
 b = [7,2] * 3
 print(b)
-[7, 7, 7]
 # [7, 2, 7, 2, 7, 2]
 
 
