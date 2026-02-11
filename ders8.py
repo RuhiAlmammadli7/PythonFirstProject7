@@ -116,6 +116,7 @@ print(z.count("alma"))
 # 1
 print(z.count(7))
 # 2
+print(z.count("7"))
 print(z.count(10))
 print(z.count("a"))
 # 0
