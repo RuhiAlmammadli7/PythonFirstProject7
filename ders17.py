@@ -39,6 +39,7 @@ set - isfidesi ucun daha elverislidir (boyuk hcmli melumatlar ucun)
 """
 
 
+# dict = d
 d = {"ad" : "Ruhi"}
 print(d["ad"])
 print(d["soyad"])
